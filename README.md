@@ -2,7 +2,7 @@
 
   - 🎓In [Hongik University](www.hongik.ac.kr)
 
-  - [Current working](https://secret-poinsettia-750.notion.site/PROJECT-Popcorn-Overflow-63ca7aedab124ba5810db987559959c8)
+  - [Current work](https://secret-poinsettia-750.notion.site/PROJECT-Popcorn-Overflow-63ca7aedab124ba5810db987559959c8)
 
   - [solved.ac](https://solved.ac/en/profile/popcorn1324) || [acmicpc.net](https://www.acmicpc.net/user/popcorn1324)
 
