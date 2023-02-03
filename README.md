@@ -9,4 +9,4 @@
 
 ### Stack
 
-https://img.shields.io/badge/logo-test-blue?logo=facebook
+<img alt = "React" src="https://img.shields.io/badge/logo-test-blue?logo=React" />
