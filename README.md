@@ -1,6 +1,6 @@
 ### Hi it's **Seo Chanhyeok** 🙌
 
-  - Current working in [Notion](https://secret-poinsettia-750.notion.site/PROJECT-Popcorn-Overflow-63ca7aedab124ba5810db987559959c8)
+  - [Current working](https://secret-poinsettia-750.notion.site/PROJECT-Popcorn-Overflow-63ca7aedab124ba5810db987559959c8)
 
   - [Solved.ac](https://solved.ac/en/profile/popcorn1324) account
 
