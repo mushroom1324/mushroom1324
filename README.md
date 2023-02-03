@@ -1,4 +1,5 @@
 ### Hi it's **Seo Chanhyeok** 🙌
+![](https://komarev.com/ghpvc/?username=mushroom1324&color=blue&label=PROFILE+VIEWS)
 
   - [Current working](https://secret-poinsettia-750.notion.site/PROJECT-Popcorn-Overflow-63ca7aedab124ba5810db987559959c8)
 
