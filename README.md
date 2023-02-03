@@ -9,4 +9,4 @@
 
 ###Stack
 
-<img src="https://img.shields.io/badge/blue?style=flat&logo=#61DAFB&logoColor=white"/>
+<img src="https://img.shields.io/badge/blue?style=flat&logo=React&logoColor=white"/>
