@@ -15,3 +15,6 @@
 ### Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushroom1324&show_icons=true&theme=slateorange)
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
