@@ -7,6 +7,6 @@
 
   - Group leader of [English study](https://www.notion.so/38d6040d3fbf4dbc8efda84ee064e6c8?v=0ae62a920eb4480fb43e47fa4ac32129)
 
-###Stack
+### Stack
 
-<img src="https://img.shields.io/badge/blue?style=flat&logo=React&logoColor=white"/>
+https://img.shields.io/badge/logo-test-blue?logo=facebook
