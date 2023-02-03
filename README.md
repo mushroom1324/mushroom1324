@@ -14,3 +14,5 @@
 ### Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushroom1324&show_icons=true&theme=slateorange)
+
+<script src="https://gist.github.com/mushroom1324/eeb8a905c1a50093ec529908e1ec1dd5.js"></script>
