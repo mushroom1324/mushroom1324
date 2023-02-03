@@ -1,4 +1,4 @@
-## **Seo Chanhyeok** 🙌 ![](https://komarev.com/ghpvc/?username=mushroom1324&color=blue&label=PROFILE+VIEWS)
+## **Seo Chanhyeok** 🙌               ![](https://komarev.com/ghpvc/?username=mushroom1324&color=blue&label=PROFILE+VIEWS)
 
   - 🎓In [Hongik University](www.hongik.ac.kr)
 
