@@ -6,7 +6,7 @@
 
   - [solved.ac](https://solved.ac/en/profile/popcorn1324) || [acmicpc.net](https://www.acmicpc.net/user/popcorn1324)
 
-  - Group leader of [📚English study](https://www.notion.so/38d6040d3fbf4dbc8efda84ee064e6c8?v=0ae62a920eb4480fb43e47fa4ac32129)
+<!--  - Group leader of [📚English study](https://www.notion.so/38d6040d3fbf4dbc8efda84ee064e6c8?v=0ae62a920eb4480fb43e47fa4ac32129) -->
 
 ### Stack
 
