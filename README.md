@@ -36,6 +36,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushroom1324&show_icons=true&theme=slateorange)
 
-  <!--START_SECTION:waka-->
+  <!--START_SECTION:waka
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mushroom1324)](https://github.com/anuraghazra/github-readme-stats)
-  <!--END_SECTION:waka-->
+  END_SECTION:waka-->
