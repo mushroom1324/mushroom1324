@@ -2,6 +2,8 @@
 
   - 🎓In [Hongik University](https://www.hongik.ac.kr)
 
+  - [Introduc myself](https://secret-poinsettia-750.notion.site/Introducing-Myself-e07ba8cb32a3411986eb0ee045418528)
+
   - [Current work](https://secret-poinsettia-750.notion.site/PROJECT-Popcorn-Overflow-63ca7aedab124ba5810db987559959c8)
 
   - [solved.ac](https://solved.ac/en/profile/popcorn1324) || [acmicpc.net](https://www.acmicpc.net/user/popcorn1324)
