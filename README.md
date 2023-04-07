@@ -8,8 +8,8 @@
 
 <!--  - Group leader of [📚English study](https://www.notion.so/38d6040d3fbf4dbc8efda84ee064e6c8?v=0ae62a920eb4480fb43e47fa4ac32129) -->
 
-안녕하세요 서찬혁입니다 ☺️
-현재 백엔드를 공부중입니다. (Spring, Django)
+안녕하세요 서찬혁입니다 ☺️ <br>
+현재 백엔드를 공부중입니다. (Spring, Django) <br>
 화이팅합시다..!
 
 ### Stack
