@@ -26,6 +26,8 @@
 
 ![](https://komarev.com/ghpvc/?username=mushroom1324&color=blue&label=PROFILE+VIEWS)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=popcorn1324)](https://solved.ac/popcorn1324/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushroom1324&show_icons=true&theme=slateorange)
 
   <!--START_SECTION:waka
