@@ -18,7 +18,7 @@
 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
-<h4>서비스 자동화, 클린 코드, 리소스 최적화.</h4>
+<h4>서비스 자동화,코드 정규화, 리소스 최적화에 관심이 많습니다.</h4>
 
 <h3>Status</h3>
 <img src="https://komarev.com/ghpvc/?username=mushroom1324&color=blue&label=PROFILE+VIEWS"/>
