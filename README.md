@@ -1,4 +1,5 @@
-<div style="text-align: center;">
+<table align="center">
+  <td>
   <h1>Seo Chanhyeok 🙌</h1>
 
   <h4>BE Developer</h4>
@@ -28,4 +29,5 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=mushroom1324&show_icons=true&theme=slateorange">
   
-</div>
+  </td>
+</table>
