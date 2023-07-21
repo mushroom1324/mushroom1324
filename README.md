@@ -22,11 +22,11 @@
 
 <h3>Status</h3>
 <img src="https://komarev.com/ghpvc/?username=mushroom1324&color=blue&label=PROFILE+VIEWS"/>
-<br>
+<br><br>
 <a href="https://solved.ac/popcorn1324/">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=popcorn1324"/>
 </a>
-<br>
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=mushroom1324&show_icons=true&theme=slateorange">
 
 </div>
