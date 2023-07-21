@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align=center>	
 
   <h1>Seo Chanhyeok 🙌</h1> 
 
