@@ -26,13 +26,14 @@
 <h3>Status</h3>
 <img src="https://komarev.com/ghpvc/?username=mushroom1324&color=blue&label=PROFILE+VIEWS"/>
 <br><br>
-<a href="https://solved.ac/popcorn1324/">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=popcorn1324"/>
-</a>
-<br><br>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-<br><br>
+<img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=popcorn1324"/>
+<img height="180em" src="https://leetcard.jacoblin.cool/popcoder" />
+<br>
+
+<img height="700em" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+
+<br>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats-nhd2.vercel.app/api?username=mushroom1324&show_icons=true" />
