@@ -36,8 +36,8 @@
 <br>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-nhd2.vercel.app/api?username=mushroom1324&show_icons=true" />
-<img height="180em" src="https://github-readme-stats-nhd2.vercel.app/api/top-langs/?username=mushroom1324&layout=compact&hide=jupyter%20notebook" />
+<img height="180em" src="https://github-readme-stats-nhd2.vercel.app/api?username=mushroom1324&show_icons=true&theme=highcontrast" />
+<img height="180em" src="https://github-readme-stats-nhd2.vercel.app/api/top-langs/?username=mushroom1324&layout=compact&hide=jupyter%20notebook&theme=highcontrast" />
 </p>
 <br><br>
 
