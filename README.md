@@ -36,8 +36,8 @@
 <br>
 
 <p align="center">
-<img height="195em" src="https://github-readme-stats-nhd2.vercel.app/api?username=mushroom1324&show_icons=true&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
-<img height="195em" src="https://github-readme-stats-nhd2.vercel.app/api/top-langs/?username=mushroom1324&layout=compact&hide=jupyter%20notebook&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
+<img height="197em" src="https://github-readme-stats-nhd2.vercel.app/api?username=mushroom1324&show_icons=true&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
+<img height="197em" src="https://github-readme-stats-nhd2.vercel.app/api/top-langs/?username=mushroom1324&layout=compact&hide=jupyter%20notebook&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
 </p>
 <br><br>
 
