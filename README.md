@@ -4,7 +4,7 @@
 
 <img width="800px" src="dashboard.svg"/>
 
-<pre>
+<pre width="800px" >
 <h3>⭐️ BE Developer ⭐️</h3>
 최신기술, 서비스 자동화에 관심이 많은 개발자입니다.
 </pre>
