@@ -27,8 +27,8 @@
 <img src="https://komarev.com/ghpvc/?username=mushroom1324&color=blue&label=PROFILE+VIEWS"/>
 <br><br>
 
-<img height="190em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=popcorn1324"/>
-<img height="190em" src="https://leetcard.jacoblin.cool/popcoder" />
+<img height="200em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=popcorn1324"/>
+<img height="200em" src="https://leetcard.jacoblin.cool/popcoder" />
 <br>
 
 <img height="600em" src="./profile-3d-contrib/profile-night-rainbow.svg" />
