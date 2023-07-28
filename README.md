@@ -30,9 +30,14 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=popcorn1324"/>
 </a>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=mushroom1324&show_icons=true&theme=slateorange">
-<br><br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+<br><br>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats-nhd2.vercel.app/api?username=mushroom1324&show_icons=true" />
+<img height="180em" src="https://github-readme-stats-nhd2.vercel.app/api/top-langs/?username=mushroom1324&layout=compact&hide=jupyter%20notebook" />
+</p>
+<br><br>
 
 </div>
