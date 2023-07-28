@@ -28,7 +28,7 @@
 <br><br>
 
 <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=popcorn1324"/>
-<img height="1800em" src="https://leetcard.jacoblin.cool/popcoder" />
+<img height="180em" src="https://leetcard.jacoblin.cool/popcoder" />
 <br>
 
 <img height="600em" src="./profile-3d-contrib/profile-night-rainbow.svg" />
@@ -36,8 +36,8 @@
 <br>
 
 <p align="center">
-<img height="200em" src="https://github-readme-stats-nhd2.vercel.app/api?username=mushroom1324&show_icons=true&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
-<img height="200em" src="https://github-readme-stats-nhd2.vercel.app/api/top-langs/?username=mushroom1324&layout=compact&hide=jupyter%20notebook&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
+<img height="190em" src="https://github-readme-stats-nhd2.vercel.app/api?username=mushroom1324&show_icons=true&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
+<img height="190em" src="https://github-readme-stats-nhd2.vercel.app/api/top-langs/?username=mushroom1324&layout=compact&hide=jupyter%20notebook&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
 </p>
 <br><br>
 
