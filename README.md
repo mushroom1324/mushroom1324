@@ -27,8 +27,8 @@
 <img src="https://komarev.com/ghpvc/?username=mushroom1324&color=blue&label=PROFILE+VIEWS"/>
 <br><br>
 
-<img height="300em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=popcorn1324"/>
-<img height="300em" src="https://leetcard.jacoblin.cool/popcoder" />
+<img height="197em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=popcorn1324"/>
+<img height="197em" src="https://leetcard.jacoblin.cool/popcoder" />
 <br>
 
 <img height="600em" src="./profile-3d-contrib/profile-night-rainbow.svg" />
@@ -36,8 +36,8 @@
 <br>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-nhd2.vercel.app/api?username=mushroom1324&show_icons=true" />
-<img height="180em" src="https://github-readme-stats-nhd2.vercel.app/api/top-langs/?username=mushroom1324&layout=compact&hide=jupyter%20notebook" />
+<img height="213em" src="https://github-readme-stats-nhd2.vercel.app/api?username=mushroom1324&show_icons=true" />
+<img height="213em" src="https://github-readme-stats-nhd2.vercel.app/api/top-langs/?username=mushroom1324&layout=compact&hide=jupyter%20notebook" />
 </p>
 <br><br>
 
