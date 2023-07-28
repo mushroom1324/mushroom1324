@@ -1,6 +1,8 @@
 <div align=center>	
 
   <h1><em>Seo Chanhyeok</em></h1> 
+  
+![Image alt text](dashboard.svg)
 
 <pre>
 <h4>🌟 BE Developer</h4>
