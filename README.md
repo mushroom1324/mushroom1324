@@ -9,7 +9,7 @@
 최신기술, 서비스 자동화에 관심이 많은 개발자입니다.
 </pre>
 
-<h3>Stack</h3>
+<h2>🛠 Stack</h3>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-4479A1?style=flat-square&logo=Django&logoColor=white"/>
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=Zapier&logoColor=white"/>
 
 
-<h3>Status</h3>
+<h2>🔗 Status</h3>
 <img src="https://komarev.com/ghpvc/?username=mushroom1324&color=blue&label=PROFILE+VIEWS"/>
 <br><br>
 
