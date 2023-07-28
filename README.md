@@ -2,7 +2,7 @@
 
   <h1><em>Seo Chanhyeok</em></h1> 
 
-<img src="dashboard.svg"/>
+<img width="800px" src="dashboard.svg"/>
 
 <pre>
 <h3>⭐️ BE Developer ⭐️</h3>
