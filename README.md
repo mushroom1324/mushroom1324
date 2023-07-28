@@ -28,7 +28,7 @@
 <br><br>
 
 <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=popcorn1324"/>
-<img height="180em" src="https://leetcard.jacoblin.cool/popcoder" />
+<img height="180em" src="https://leetcard.jacoblin.cool/popcoder?theme=dark" />
 <br>
 
 <img height="600em" src="./profile-3d-contrib/profile-night-rainbow.svg" />
