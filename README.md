@@ -6,6 +6,7 @@
 
 <pre >
 <h3>⭐️ BE Developer ⭐️</h3>
+빠른 배움과 구현이 장점인 개발자입니다.
   
 --- Activities ---
 
@@ -16,7 +17,6 @@
   
 <li>소켓, 스레딩을 이용한 Reliable UDP 프로토콜 <a href="https://github.com/mushroom1324/RDTP">RDTP </a><sub>(2023.05 ~ 2023.06)</sub></li>
 <li>중고 의류 거래 플랫폼 리픽 - <a href="https://github.com/mushroom1324/repick-slack-bot">관리비서 피키</a> 슬랙 봇 <sub>(2023.07 ~ )</sub></li>
-
 
 </pre>
 
