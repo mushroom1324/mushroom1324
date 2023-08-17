@@ -7,6 +7,13 @@
 <pre >
 <h3>⭐️ BE Developer ⭐️</h3>
 클린 코드, 서비스 자동화에 관심이 많은 개발자입니다.
+  
+----------------------------------------------------------------------------------------
+
+<li>신촌연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 17기 BE <sub>(2023.03 ~ 2023.08)</sub></li>
+<li>중고 의류 거래 플랫폼 <a href="https://github.com/Repick-official/repick-server/tree/develop">Repick</a> -  지속가능한 패션 문화 서비스 • BE <sub> (2023.07 ~ )</sub></li>
+<li>신촌연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 18기 BE 운영진 <sub>(2023.08 ~ )</sub></li>
+
 </pre>
 
 <h2>🛠 Stack</h3>
