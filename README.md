@@ -1,7 +1,5 @@
 <div align=center>	
 
-  <h1><em>Seo Chanhyeok</em></h1> 
-
 <img width="800px" src="dashboard.svg"/>
 
 <br><br>
