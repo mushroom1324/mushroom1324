@@ -31,7 +31,7 @@
 <img height="180em" src="https://leetcard.jacoblin.cool/popcoder?theme=dark" />
 <br>
 
-<img height="600em" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+<img height="600em" src="./profile-3d-contrib/profile-night-green.svg" />
 
 <br>
 
