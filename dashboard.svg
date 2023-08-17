@@ -63,6 +63,7 @@
 
                 .hi {
                 color: var(--color-main);
+                text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.15); /* 텍스트에 약간의 그림자 효과 추가 */
                 animation: hi 1.5s linear -0.5s infinite;
                 display: inline-block;
                 transform-origin: 70% 70%;
