@@ -1,9 +1,7 @@
 <div align=center>	
 
 <img width="800px" src="dashboard.svg"/>
-
 <br><br>
-
 <pre >
 <h3>☑️ Faster Implementation, Faster Adaptation</h3>
   
