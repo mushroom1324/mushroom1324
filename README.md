@@ -5,8 +5,7 @@
 <br><br>
 
 <pre >
-<h3>⭐️ BE Developer ⭐️</h3>
-빠른 배움과 구현이 장점인 개발자입니다.
+<h3>☑️ Faster Implementation, Faster Adaptation</h3>
   
 --- Collaborative Works ---
 
