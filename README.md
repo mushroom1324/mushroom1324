@@ -8,11 +8,8 @@
 --- Collaborative Works ---
 
 <li>신촌연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 17기 BE <sub>(2023.03 ~ 2023.08)</sub></li>
-<li>홍익대학교 창업경진대회 최우수상(1위) • Repick <sub>(2023.05.26)</sub></li>
 <li>중고 의류 거래 플랫폼 <a href="https://github.com/Repick-official/repick-server/tree/develop">Repick</a> • BE <sub>(2023.07 ~ )</sub></li>
 <li>신촌연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 18기 BE 운영진 <sub>(2023.08 ~ )</sub></li>
-
-<li>BRAVE & SEOUL IMPACT 2023 창업캠프 대상(1위) • Repick <sub>(2023.08.27)</sub></li>
   
 --- Personal Works ---
   
