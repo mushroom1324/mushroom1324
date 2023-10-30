@@ -3,7 +3,7 @@
 <img width="800px" src="dashboard.svg"/>
 <br>
 <pre >
-<h3>☑️ Works </h3>
+<h3>☑️ History </h3>
   
 --- Collaborative Works ---
 
@@ -20,7 +20,7 @@
 
 <h2>🛠 Stack</h3>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Django-4479A1?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <br>
