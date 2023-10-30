@@ -3,7 +3,7 @@
 <img width="800px" src="dashboard.svg"/>
 <br>
 <pre >
-<h3>☑️ Faster Implementation, Faster Adaptation</h3>
+<h3>☑️ Works </h3>
   
 --- Collaborative Works ---
 
