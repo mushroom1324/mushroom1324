@@ -1,6 +1,7 @@
 <div align=center>	
-
+  
 <img width="800px" src="dashboard.svg"/>
+
 <br>
 <pre >
 <h3>☑️ History </h3>
@@ -18,6 +19,9 @@
 
 </pre>
 
+<h2>🪪 Cert</h2>
+<a href="https://www.credly.com/badges/fcdbf795-a718-43c0-be3e-dd1aed7bcdf6/public_url"><img src="https://github.com/mushroom1324/repick-mobile-view/assets/76674422/5c54ce24-fc48-4e2d-8504-e01681c88e21" width="100px" /></a>
+
 <h2>🛠 Stack</h3>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> -->
@@ -25,12 +29,13 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=Zapier&logoColor=white"/>
 
+<br><br>
 
 <h2>🔗 Status</h3>
 <img src="https://komarev.com/ghpvc/?username=mushroom1324&color=blue&label=PROFILE+VIEWS"/>
@@ -39,16 +44,6 @@
 <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=popcorn1324"/>
 <img height="180em" src="https://leetcard.jacoblin.cool/popcoder?theme=dark" />
 <br>
-
-<img height="600em" src="./profile-3d-contrib/profile-night-green.svg" />
-
-<br>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats-nhd2.vercel.app/api?username=mushroom1324&show_icons=true&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
-<img height="180em" src="https://github-readme-stats-nhd2.vercel.app/api/top-langs/?username=mushroom1324&layout=compact&hide=jupyter%20notebook&theme=synthwave&bg_color=141414&text_color=a3a3a3" />
-</p>
-<br><br>
 
 </div>
 
