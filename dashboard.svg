@@ -71,10 +71,10 @@
 
                 @media (prefers-color-scheme: light) {
                 .container {
-                --color-main: #F15BB5;
-                --color-primary: #24b0ef;
-                --color-secondary: #4526f6;
-                --color-tertiary: #f6f645;
+                --color-main: #d8de26;
+                --color-primary: #FF9900;
+                --color-secondary: #7f23d5;
+                --color-tertiary: #FF9900;
                 }
                 }
 
