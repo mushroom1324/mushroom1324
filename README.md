@@ -6,16 +6,15 @@
 <pre >
 <h3>☑️ History </h3>
   
---- Collaborative Works ---
-
+--- Activities ---
 <li>신촌연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 17기 BE <sub>(2023.03 ~ 2023.08)</sub></li>
+<li>신촌연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 18기 BE 운영진 <sub>(2023.08 ~ 2024.02)</sub></li>
+<li>수익형 앱 런칭 동아리 <a href="https://github.com/Central-MakeUs">CMC</a> • 14기 Server 챌린저 <sub>(2023.11 ~ )</sub></li>
+
+
+--- Projects ---
 <li>중고 의류 거래 플랫폼 <a href="https://github.com/Repick-official/repick-server/tree/develop">Repick</a> • BE <sub>(2023.07 ~ )</sub></li>
-<li>신촌연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 18기 BE 운영진 <sub>(2023.08 ~ )</sub></li>
-  
---- Personal Works ---
-  
-<li>소켓, 스레딩을 이용한 Reliable UDP 프로토콜 <a href="https://github.com/mushroom1324/RDTP">RDTP </a><sub>(2023.05 ~ 2023.06)</sub></li>
-<li>중고 의류 거래 플랫폼 Repick - <a href="https://github.com/mushroom1324/repick-slack-bot">관리비서 피키</a> 슬랙 봇 <sub>(2023.07 ~ )</sub></li>
+<li>커리어 경험 기록 관리 서비스 <a href="https://github.com/Central-MakeUs/DayCarat-Server">DayCarat</a> • Server <sub>(2024.01 ~ )</sub></li>
 
 </pre>
 
@@ -38,9 +37,12 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<br>
 
-
-<br><br>
+<h2>🏆 Honors</h3>
+<pre>
+  AWS Rookie Championship 3위 <sub>(2023.12.24)</sub>
+</pre>
 
 <h2>🔗 Status</h3>
 <img src="https://komarev.com/ghpvc/?username=mushroom1324&color=blue&label=PROFILE+VIEWS"/>
@@ -48,7 +50,7 @@
 
 <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=popcorn1324"/>
 <img height="180em" src="https://leetcard.jacoblin.cool/popcoder?theme=dark" />
-<br>
+<br><br>
 
 </div>
 
