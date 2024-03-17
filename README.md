@@ -1,6 +1,4 @@
 <div align=center>	
-  
-<img width="800px" src="dashboard.svg"/>
 
 <br>
 <pre >
