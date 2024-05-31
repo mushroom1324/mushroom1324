@@ -9,8 +9,6 @@
 <li>커리어 경험 기록 관리 서비스 <a href="https://github.com/Central-MakeUs/DayCarat-Server">DayCarat</a> • Server <sub>(2024.01 ~ 2024.03)</sub></li>
 
 <h3>Licenses & certifications</h3> 
-<a href="https://www.credly.com/badges/fcdbf795-a718-43c0-be3e-dd1aed7bcdf6/public_url">AWS Solutions Architect - Associate</a>
-
-<a href="https://www.credly.com/badges/fcdbf795-a718-43c0-be3e-dd1aed7bcdf6/public_url">AWS Advanced Networking - Specialty</a>
-
-Oral Proficiency Interview (OPIc) - AL
+<li><a href="https://www.credly.com/badges/fcdbf795-a718-43c0-be3e-dd1aed7bcdf6/public_url">AWS Solutions Architect - Associate</a> <sub>(2023.12.20)</sub></li>
+<li><a href="https://www.credly.com/badges/fcdbf795-a718-43c0-be3e-dd1aed7bcdf6/public_url">AWS Advanced Networking - Specialty</a> <sub>(2024.05.31)</sub></li>
+<li>Oral Proficiency Interview (OPIc) - AL <sub>(2024.03.24)</sub></li>
