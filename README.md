@@ -11,4 +11,5 @@
 <h3>Licenses & certifications</h3> 
 <li><a href="https://www.credly.com/badges/fcdbf795-a718-43c0-be3e-dd1aed7bcdf6/public_url">AWS Solutions Architect - Associate</a> <sub>(2023.12.20)</sub></li>
 <li><a href="https://www.credly.com/badges/9f6790c3-5505-4bbf-84d7-3828f34eb8e1/public_url">AWS Advanced Networking - Specialty</a> <sub>(2024.05.31)</sub></li>
+<li><a href="https://www.credly.com/badges/100b94ef-3048-4f20-8442-cb1bb6bf80d8/public_url">AWS SysOps Administrator – Associate</a> <sub>(2024.06.18)</sub></li>
 <li>Oral Proficiency Interview (OPIc) - AL <sub>(2024.03.24)</sub></li>
