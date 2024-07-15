@@ -19,6 +19,6 @@ I'm currently a senior at Hongik University, studying cloud services. Come check
 
 <h3>Awards</h3> 
 <li><a href="https://popcorn-overflow.tistory.com/27">AWS Rookie Championship</a> - 3rd place <sub>(2023.12)</sub>  
-<li>2023 Seoul City University Campus Town Demo Day - Repick<sub>(2023.09)</sub>  
+<li>2023 University of Seoul Campus Town Demo Day - Repick<sub>(2023.09)</sub>  
 <li>BRAVE & SEOUL IMPACT 2023 Startup Camp Hackathon - 1st place, Repick <sub>(2023.08)</sub>  
 <li>Hongik University Startup Competition - 1st place, Repick <sub>(2023.05)</sub>  
