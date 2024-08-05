@@ -12,10 +12,10 @@ I'm currently a senior at Hongik University, studying cloud services. Come check
 <li>Career Experience Management Service <a href="https://github.com/Central-MakeUs/DayCarat-Server">DayCarat</a> • Backend Developer <sub>(2024.01 ~ 2024.03)</sub></li>
 
 <h3>Licenses & certifications</h3> 
-<li><a href="https://www.credly.com/badges/fcdbf795-a718-43c0-be3e-dd1aed7bcdf6/public_url">AWS Solutions Architect - Associate</a> <sub>(2023.12.20)</sub></li>
-<li><a href="https://www.credly.com/badges/9f6790c3-5505-4bbf-84d7-3828f34eb8e1/public_url">AWS Advanced Networking - Specialty</a> <sub>(2024.05.31)</sub></li> [Review](https://popcorn-overflow.tistory.com/34) 
-<li><a href="https://www.credly.com/badges/100b94ef-3048-4f20-8442-cb1bb6bf80d8/public_url">AWS SysOps Administrator – Associate</a> <sub>(2024.06.18)</sub></li>
-<li><a href="https://www.credly.com/badges/22293446-ae53-4b44-8b2b-ea004fb20830/public_url">AWS Solutions Architect - Professional</a> <sub>(2024.08.05)</sub></li> [Review](https://popcorn-overflow.tistory.com/45)
+<li>AWS Solutions Architect - Associate</a> <sub>(2023.12.20)</sub></li>
+<li><a href="https://popcorn-overflow.tistory.com/34">AWS Advanced Networking - Specialty</a> <sub>(2024.05.31)</sub></li>
+<li>AWS SysOps Administrator – Associate</a> <sub>(2024.06.18)</sub></li>
+<li><a href="https://popcorn-overflow.tistory.com/45">AWS Solutions Architect - Professional</a> <sub>(2024.08.05)</sub></li>
 
 <li>Oral Proficiency Interview - Computer (OPIc) - English, AL <sub>(2024.03.24)</sub></li>
 
