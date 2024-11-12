@@ -6,7 +6,7 @@ I'm currently a senior at Hongik University, studying cloud services. Come check
 <li><a href="https://github.com/CEOS-Developers">CEOS</a> - Shinchon IT Startup Club • 18th Backend Developer Management Team <sub>(2023.08 ~ 2024.02)</sub></li>
 <li><a href="https://github.com/Central-MakeUs">CMC</a> - Central MakeUs Challenge • 14th Backend Developer <sub>(2023.11 ~ 2024.03)</sub></li>
 <li><a href="https://ausg.me/">AUSG</a> - AWSKRUG University Student Group • 8th <sub>(2024.07 ~ present)</sub></li>
-<li><a href="https://aws-cloud-clubs.notion.site/AWS-Cloud-Clubs-South-Korea-2f84ef1eeabe4f2da78ebd04eeec4e07#433c4e471b9b495e96720931b1876d05">ACC</a> - AWS Cloud Club South Korea, Hongik University • 1st Captain <sub>(2024.08 ~ present)</sub></li>
+<li><a href="https://aws-cloud-clubs.notion.site/AWS-Cloud-Clubs-South-Korea-2f84ef1eeabe4f2da78ebd04eeec4e07#433c4e471b9b495e96720931b1876d05">ACC</a> - AWS Cloud Club South Korea, Hongik University • 1st Captain <sub>(2024.09 ~ present)</sub></li>
 
 <h3>Projects</h3>
 <li>Second-hand Clothing Consignment Sales Platform <a href="https://github.com/Repick-official/repick-server-v2">Repick</a> • Backend Developer <sub>(2023.07 ~ present)</sub></li>
