@@ -1,5 +1,5 @@
 
-I'm currently a senior at Hongik University, studying cloud services. Come check out my <a href="https://popcorn-overflow.tistory.com/">Tistory Blog</a>! 👋
+Come check out my <a href="https://popcorn-overflow.tistory.com/">Tistory Blog</a>! 👋
 
 <h3>Activities</h3>
 <li><a href="https://github.com/CEOS-Developers">CEOS</a> - Shinchon IT Startup Club • 17th Backend Developer <sub>(2023.03 ~ 2023.08)</sub></li>
