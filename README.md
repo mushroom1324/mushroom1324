@@ -1,4 +1,6 @@
 
+Technical Support Engineer @Datadog
+
 Come check out my <a href="https://popcorn-overflow.tistory.com/">Tistory Blog</a>! 👋
 
 <h3>Activities</h3>
@@ -30,3 +32,4 @@ Come check out my <a href="https://popcorn-overflow.tistory.com/">Tistory Blog</
 <li>🔮 AWS Site-to-Site VPN with Terraform <a href="https://github.com/mushroom1324/aws-s2s-vpn-terraform">Repository(Korean)</a></li>
 <li>🏗️ Multi-account environment with CloudFormation StackSets <a href="https://popcorn-overflow.tistory.com/47">Link(English)</a> <a href="https://popcorn-overflow.tistory.com/48">Link(Korean)</a></li>
 <li>🤖 AWS re:Post web crawler with AWS Serverless services <a href="https://popcorn-overflow.tistory.com/46">Link(English)</a></li>
+<li>📢 AWS Community Day Presentation <a href="https://youtu.be/rFZMtaMFO8I?si=Q2oDxw73QWKOD3fn">Link(Korean)</a></li>
